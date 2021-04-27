@@ -1,9 +1,9 @@
 # Too-Many-Films
 > There are too many films, and too many OTT services these days.
 This makes difficult to find where the contents users want right away. 
-So, we made it. 
-Simply enter the content you want to see into the search field on our site, 
-and you can easily find out which OTT is serving that content. 
+This is the problem our project is trying to solve. 
+By simply entering the content's name whoever want to see into the search field on our site, 
+they can easily find out which OTT is serving such contents. 
 It started as a graduation project and is currently ongoing as of April 27th.
 <br/>
 
