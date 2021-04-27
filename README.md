@@ -1,6 +1,6 @@
 # Too-Many-Films
 > There are too many films, and too many OTT services these days.
-And it makes cumbersome to search for the contents that users want. 
+This makes difficult to find where the contents users want right away. 
 So, we made it. 
 Simply enter the content you want to see into the search field on our site, 
 and you can easily find out which OTT is serving that content. 
